@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @MuhamedSalman
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Test Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: LinkedIn-> www.linkedin.com/in/m-salman-tester
-- 😄 Pronouns: he, him, his
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Mohamed Salman
 
-<!---
-MuhamedSalman/MuhamedSalman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- 🏆 **ISTQB-FL Certified Software Tester**  
+- 🔍 Passionate about **Software Testing** and **Quality Assurance**  
+- 🚀 Currently learning **Test Automation** (Selenium, Java, TestNG)  
+- 🔄 Interested in **Agile methodologies & performance testing**  
+
+## 💡 Looking to Collaborate On
+- Open-source **Testing Projects**  
+- **Automation & Performance Testing** initiatives  
+- Improving **Software Quality Practices**  
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/m-salman-tester)  
+- 🖥️ [GitHub](https://github.com/MuhamedSalman)  
+- 📩 [Email](mailto:Mohamed.Salman1421@gmail.com)  
+
+## ⚡ Fun Fact
+🔎 I enjoy finding **hidden defects** in software just as much as solving puzzles! 🧩  
