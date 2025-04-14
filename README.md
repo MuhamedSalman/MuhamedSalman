@@ -2,9 +2,11 @@
 
 ## 🔍 About Me
 
-I'm an **ISTQB-FL Certified Software Tester** with a strong **analytical mindset and a passion for defect detection**.
-My expertise lies in **manual testing, API testing, mobile app testing, and Agile methodologies**.
-I'm currently enhancing my skills in **automation and performance testing** using **Selenium, Java, and JMeter**.
+- I'm an **ISTQB-FL Certified Software Tester** with a strong **analytical mindset and a passion for defect detection**.
+- My expertise lies in **manual testing, API testing, mobile app testing, and Agile methodologies**.
+- I'm currently enhancing my skills in **automation and performance testing** using **Selenium, Java, and JMeter**.
+  
+🚀 Passionate about software quality and always eager to learn and improve!
 
 ## 🛠️ Technical Skills
 - **Testing:** Manual Testing | API Testing (Postman) | Mobile App Testing
@@ -14,8 +16,7 @@ I'm currently enhancing my skills in **automation and performance testing** usin
 - **Performance Testing:** JMeter
 - **Database Testing:** SQL 
 - **Methodologies:** Agile | Scrum | Test Case Design | Test Planning
-🚀 Passionate about software quality and always eager to learn and improve!
-
+  
 ## 📌 Projects
 ### 🔹 **E-commerce Web App Testing**
 - Conducted **manual and automated testing** on an e-commerce platform.
