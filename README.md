@@ -4,7 +4,7 @@
 - 🏆 **ISTQB-FL Certified Software Tester**  
 - 🔍 Passionate about **Software Testing** and **Quality Assurance**  
 - 🚀 Currently learning **Test Automation** (Selenium, Java, TestNG)  
-- 🔄 Interested in **Agile methodologies & performance testing**  
+- 🔄 Interested in **Agile methodologies & Automation testing**  
 
 ## 💡 Looking to Collaborate On
 - Open-source **Testing Projects**  
